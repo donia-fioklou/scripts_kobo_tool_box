@@ -1,5 +1,5 @@
 
-# KoboToolbox Data to PostgreSQL
+# KoboToolbox et PostgreSQL
 
 Ce projet permet de récupérer les données de formulaires depuis l'API **KoboToolbox** et de les insérer dans une base de données **PostgreSQL**. Le projet utilise Python et exploite les bibliothèques `requests`, `psycopg2`, et `dotenv` pour gérer les connexions à l'API, le traitement des données et l'insertion dans la base de données.
 
